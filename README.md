@@ -14,19 +14,14 @@ This project is an end-to-end data analytics dashboard built on the **Walmart Sa
 
 ## 📊 Dashboard Preview
 
-> 📸 *Screenshot 1 — Full dashboard overview (all 4 visuals visible)*
-
-![Dashboard Overview](screenshots/dashboard-overview.png)
-
+<img width="897" height="495" alt="image" src="https://github.com/user-attachments/assets/07090142-6a91-4ce9-b1ae-3fba564c5efd" />
 ---
 
 ## 🔍 Key Insights
 
 ### Graph 1 — Sales Trend by Year & Month *(Line Chart)*
 
-> 📸 *Screenshot 2 — Line chart zoomed in*
-
-![Sales Trend](screenshots/graph1-sales-trend.png)
+<img width="711" height="230" alt="image" src="https://github.com/user-attachments/assets/9ec20b27-052e-4885-830c-88957d7c4e0a" />
 
 - Sales peaked in **December** for both 2010 and 2011, indicating strong holiday season demand.
 - In **2012**, the peak shifted to **June**, suggesting a change in consumer buying patterns.
@@ -36,9 +31,7 @@ This project is an end-to-end data analytics dashboard built on the **Walmart Sa
 
 ### Graph 2 — Avg Fuel Price vs Avg Weekly Sales *(Line/Area Chart)*
 
-> 📸 *Screenshot 3 — Fuel price vs sales chart*
-
-![Fuel vs Sales](screenshots/graph2-fuel-vs-sales.png)
+<img width="632" height="215" alt="image" src="https://github.com/user-attachments/assets/5f1b3146-0bc6-4d84-a756-f98332a66e2a" />
 
 - From **February onwards**, as average fuel prices rise, sales either **decrease or remain constant**.
 - From **May onwards**, as fuel prices drop, average weekly sales show a **noticeable increase**.
@@ -48,9 +41,8 @@ This project is an end-to-end data analytics dashboard built on the **Walmart Sa
 
 ### Graph 3 — Sales Distribution by Year *(Pie Chart)*
 
-> 📸 *Screenshot 4 — Pie chart*
+<img width="350" height="251" alt="image" src="https://github.com/user-attachments/assets/3cb22e97-bcc2-46b3-9e18-6dceae97fd05" />
 
-![Sales Distribution](screenshots/graph3-sales-distribution.png)
 
 - **2011** recorded the **highest total sales** across all three years.
 - **2012** recorded the **lowest total sales**, which aligns with the fuel price trends observed.
@@ -60,10 +52,9 @@ This project is an end-to-end data analytics dashboard built on the **Walmart Sa
 
 ### Graph 4 — Avg Weekly Sales by Store & Year *(Clustered Column Chart)*
 
-> 📸 *Screenshot 5 — Clustered column chart with slicer*
+
 <img width="1147" height="255" alt="Screenshot 2026-05-29 180510" src="https://github.com/user-attachments/assets/9a776552-1353-48c0-a13e-0de5f2563a87" />
 
-![Store Comparison](screenshots/graph4-store-comparison.png)
 
 - Compares **average weekly sales across all 45 stores** for each year side by side.
 - Helps identify which stores are **top performers** and which are underperforming.
